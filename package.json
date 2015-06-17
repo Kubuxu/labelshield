@@ -1,14 +1,13 @@
 {
-  "name": "chat-example",
-  "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "name": "labelshield",
+  "version": "0.0.1",
+  "description": "Application that recieves label stats from github and transforms them into shield.io banners.",
   "main": "server.js",
   "repository": "",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "Jakub (Kubuxu) Sztandera <kubuxu@gmail.com>",
   "dependencies": {
     "express": "^4.12.4",
     "node-cache": "^3.0.0",
-    "node-rest-client": "^1.5.1",
-    "request": "^2.58.0"
+    "node-rest-client": "^1.5.1"
   }
 }
